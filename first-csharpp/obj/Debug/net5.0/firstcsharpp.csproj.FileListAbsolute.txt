@@ -1,0 +1,51 @@
+D:\MY Github\first01\first01\firstcsharpp\bin\Debug\net5.0\firstcsharpp.exe
+D:\MY Github\first01\first01\firstcsharpp\bin\Debug\net5.0\firstcsharpp.deps.json
+D:\MY Github\first01\first01\firstcsharpp\bin\Debug\net5.0\firstcsharpp.runtimeconfig.json
+D:\MY Github\first01\first01\firstcsharpp\bin\Debug\net5.0\firstcsharpp.runtimeconfig.dev.json
+D:\MY Github\first01\first01\firstcsharpp\bin\Debug\net5.0\firstcsharpp.dll
+D:\MY Github\first01\first01\firstcsharpp\bin\Debug\net5.0\ref\firstcsharpp.dll
+D:\MY Github\first01\first01\firstcsharpp\bin\Debug\net5.0\firstcsharpp.pdb
+D:\MY Github\first01\first01\firstcsharpp\obj\Debug\net5.0\firstcsharpp.csprojAssemblyReference.cache
+D:\MY Github\first01\first01\firstcsharpp\obj\Debug\net5.0\firstcsharpp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY Github\first01\first01\firstcsharpp\obj\Debug\net5.0\firstcsharpp.AssemblyInfoInputs.cache
+D:\MY Github\first01\first01\firstcsharpp\obj\Debug\net5.0\firstcsharpp.AssemblyInfo.cs
+D:\MY Github\first01\first01\firstcsharpp\obj\Debug\net5.0\firstcsharpp.csproj.CoreCompileInputs.cache
+D:\MY Github\first01\first01\firstcsharpp\obj\Debug\net5.0\firstcsharpp.dll
+D:\MY Github\first01\first01\firstcsharpp\obj\Debug\net5.0\ref\firstcsharpp.dll
+D:\MY Github\first01\first01\firstcsharpp\obj\Debug\net5.0\firstcsharpp.pdb
+D:\MY Github\first01\first01\firstcsharpp\obj\Debug\net5.0\firstcsharpp.genruntimeconfig.cache
+D:\MY Github\first01\first01\first-csharpp\bin\Debug\net5.0\firstcsharpp.exe
+D:\MY Github\first01\first01\first-csharpp\bin\Debug\net5.0\firstcsharpp.deps.json
+D:\MY Github\first01\first01\first-csharpp\bin\Debug\net5.0\firstcsharpp.runtimeconfig.json
+D:\MY Github\first01\first01\first-csharpp\bin\Debug\net5.0\firstcsharpp.runtimeconfig.dev.json
+D:\MY Github\first01\first01\first-csharpp\bin\Debug\net5.0\firstcsharpp.dll
+D:\MY Github\first01\first01\first-csharpp\bin\Debug\net5.0\ref\firstcsharpp.dll
+D:\MY Github\first01\first01\first-csharpp\bin\Debug\net5.0\firstcsharpp.pdb
+D:\MY Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.csprojAssemblyReference.cache
+D:\MY Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.AssemblyInfoInputs.cache
+D:\MY Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.AssemblyInfo.cs
+D:\MY Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.csproj.CoreCompileInputs.cache
+D:\MY Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.dll
+D:\MY Github\first01\first01\first-csharpp\obj\Debug\net5.0\ref\firstcsharpp.dll
+D:\MY Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.pdb
+D:\MY Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.genruntimeconfig.cache
+D:\MY_Github\first01\first01\first-csharpp\bin\Debug\net5.0\firstcsharpp.exe
+D:\MY_Github\first01\first01\first-csharpp\bin\Debug\net5.0\firstcsharpp.deps.json
+D:\MY_Github\first01\first01\first-csharpp\bin\Debug\net5.0\firstcsharpp.runtimeconfig.json
+D:\MY_Github\first01\first01\first-csharpp\bin\Debug\net5.0\firstcsharpp.runtimeconfig.dev.json
+D:\MY_Github\first01\first01\first-csharpp\bin\Debug\net5.0\firstcsharpp.dll
+D:\MY_Github\first01\first01\first-csharpp\bin\Debug\net5.0\ref\firstcsharpp.dll
+D:\MY_Github\first01\first01\first-csharpp\bin\Debug\net5.0\firstcsharpp.pdb
+D:\MY_Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.csprojAssemblyReference.cache
+D:\MY_Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.AssemblyInfoInputs.cache
+D:\MY_Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.AssemblyInfo.cs
+D:\MY_Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.csproj.CoreCompileInputs.cache
+D:\MY_Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.dll
+D:\MY_Github\first01\first01\first-csharpp\obj\Debug\net5.0\ref\firstcsharpp.dll
+D:\MY_Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.pdb
+D:\MY_Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.genruntimeconfig.cache
+D:\MY_Github\first01\first01\first-csharpp\bin\Debug\net5.0\System.Speech.dll
+D:\MY_Github\first01\first01\first-csharpp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\MY_Github\first01\first01\first-csharpp\obj\Debug\net5.0\firstcsharpp.csproj.CopyComplete
