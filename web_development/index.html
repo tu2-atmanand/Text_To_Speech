@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>text-to-speech</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+
+<body onload="textToAudio()">
+    <header>
+        <div class="header-item">
+            <h1>Text To Speech</h1>
+            <!-- <div class="header-button-flex">
+                     <a href="https://github.com/tu2-atmanand"><button class="header-btn">Github</button></a>
+                 </div>
+             -->
+        </div>
+    </header>
+
+    <main>
+        <div class="containerone">
+            <button class="btn" style="width: 50%;" onclick="toSpeech()" aria-setsize="20">Hello Github</button>
+        </div>
+        <div class="container">
+            <div>
+                <div>
+                    <h2>Select Voice</h2>
+                    <select id="voices" class="form-select bg-secondary text-light"></select>
+                </div>
+
+                <div>
+                    <h2>Message</h2>
+                    <textarea id="input-text" placeholder="Enter Text" cols="40%" rows="11%"></textarea>
+
+                </div>
+            </div>
+
+            <div>
+                <div>
+                    <h2>Volume</h2>
+                    <input type="range" min="1" max="10" value="5" id="volumeRange">
+                </div>
+
+                <div>
+                    <h2>Rate</h2>
+                    <input type="range" min="1" max="10" value="7" id="rateRange">
+                </div>
+
+                <div>
+                    <h2>Pitch</h2>
+                    <input type="range" min="1" max="20" value="10" id="pitchRange">
+                </div>
+
+                <div>
+                    <button onclick="textToAudio()">Speech</button>
+                    <button onclick="reset()">Reset</button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <!-- <ul>
+            <h3>Github</h3>
+            <li><a href="https://github.com/tu2-atmanand/first01/web_development#readme">ReadMe</a></li>
+            <li><a href="https://github.com/tu2-atmanand/first01/web_development">Fork</a></li>
+            <li><a href="https://github.com/tu2-atmanand/first01/web_development/CONTRIBUTION.md">Contribution</a></li>
+        </ul> -->
+        <h3>Contact</h3>
+        <div>
+            <button class="foot_btn">
+                <a href="https://github.com/surajondev">Github</a>
+            </button>
+        </div>
+        <div class="foot_div">
+            <button class="foot_btn">
+                <a href="https://twitter.com/surajondev">Twitter</a>
+            </button>
+        </div class="foot_div">
+    </footer>
+
+
+</body>
+
+</html>
